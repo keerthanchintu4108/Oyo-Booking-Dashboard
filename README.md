@@ -42,11 +42,6 @@ This project demonstrates data analysis and dashboard development skills using *
 2. Open **Oyo Booking dashboard.pbix** using **Power BI Desktop**.
 3. Explore the dashboard using filters and visualizations.
 
----
-
-## 📷 Dashboard Preview
-
-![OYO Dashboard](oyo.jpeg)
 
 ---
 
